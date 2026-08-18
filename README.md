@@ -2,7 +2,7 @@
 
 I'm a beginner developer currently learning software development at Webbo3 Academy.
 
-About Me
+# About Me
 
 👨‍💻 Beginner Developer
 📚 Currently learning at Webbo3 Academy
@@ -10,7 +10,7 @@ About Me
 💻 Interested in building websites and real-world applications
 🚀 Focused on learning, building, and improving every day
 
-What I'm Learning
+# What I'm Learning
 
 - HTML
 - CSS
@@ -21,13 +21,13 @@ What I'm Learning
 - Programming Fundamentals
 - More technologies as I progress
 
-My Goal
+# My Goal
 
 My goal is to become a skilled Frontend Developer and eventually an AI Engineer by building real projects, solving problems, and continuously improving my technical skills.
 
-Connect With Me
+# Connect With Me
 
 GitHub: https://github.com/saviourgbordzor.tech
 Portfolio: Coming soon
 
-⭐ Thanks for visiting my profile!
+# ⭐ Thanks for visiting my profile!
