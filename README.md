@@ -23,7 +23,7 @@ I'm a beginner developer currently learning software development at Webbo3 Acade
 
 # My Goal
 
-My goal is to become a skilled Frontend Developer and eventually an AI Engineer by building real projects, solving problems, and continuously improving my technical skills.
+My goal is to become a skilled Frontend developer and UI/UX designer by building real projects, solving problems, and continuously improving my technical skills.
 
 # Connect With Me
 
