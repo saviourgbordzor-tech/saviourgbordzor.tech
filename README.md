@@ -28,6 +28,8 @@ My goal is to become a skilled Frontend Developer and eventually an AI Engineer 
 # Connect With Me
 
 GitHub: https://github.com/saviourgbordzor.tech
+LinkedIn: https://www.linkedin.com/in/saviourgbordzor
+X: https://x.com/SaviourGB
 Portfolio: Coming soon
 
 # ⭐ Thanks for visiting my profile!
